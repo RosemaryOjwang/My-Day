@@ -12,5 +12,6 @@
 >In Kenya, a kilogram of this food currently goes for approximately Kenya shillings 250. 
 >
 >My favorite food is **rice**.
+![A plate of rice served with Stew](IMG/Rice.jpg)
 
 [click here](https://www.go4worldbusiness.com/suppliers/kenya/rice.html) to connect with quality rice growers and suppliers in Kenya.
