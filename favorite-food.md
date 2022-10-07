@@ -7,9 +7,15 @@
 * beef stew
 * pork stew 
 * green grams
-* et cetera. 
+* et cetera
 >
 >In Kenya, a kilogram of this food currently goes for approximately Kenya shillings 250. 
+>
+## Places where rice is grown in Kenya
+>In Kenya, Rice is grown mostly in irrigation schemes such as;
+1. _Ahero Irrigation Scheme_
+2. _Perkerra Irrigation Scheme_
+3. _Mwea Irrigation Scheme_
 >
 >My favorite food is **rice**.
 ![_A plate of rice served with Stew_](IMG/Rice.jpg)
